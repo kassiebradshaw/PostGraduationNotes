@@ -1,5 +1,7 @@
 # Notes about Lab 01: Snakes Cafe
 
+Link to Lab on my GitHub: https://github.com/kassiebradshaw/snakes-cafe
+
 ## Comments/Observations
 
 * I created functions and invoked them in the `if __name__ == "__main__"` if statement
